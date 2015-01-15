@@ -1,4 +1,4 @@
-#nodebb-plugin-calendar
+#nodebb-widget-teamspeak
 
 This plugin for NodeBB allows people to put a configurable widget on their website which shows their Teamspeak server's details.
 
